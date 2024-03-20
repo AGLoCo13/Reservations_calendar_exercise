@@ -1,0 +1,14 @@
+/*global.css */
+body {
+    background-color: #87ceeb !important;
+}
+
+.heading {
+    color: #333333;
+    font-weight: 700;
+}
+
+.mb-4{
+    color: #e6e6fa;
+    font-weight: 700;
+}
